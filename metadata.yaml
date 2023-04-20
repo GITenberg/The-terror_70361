@@ -1,0 +1,47 @@
+_repo: The-terror_70361
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Luros, Milton
+    alias: Rosenblatt, Milton Louis
+    birthdate: 1911
+    deathdate: 1999
+    gutenberg_agent_id: '41543'
+    url: http://www.gutenberg.org/2009/agents/41543
+creator:
+  author:
+    agent_name: Coppel, Alfred
+    aliases:
+    - Gilman, Robert Cham
+    - Marin, A. C.
+    - Coppel, Alfredo José de Arana-Marini
+    - Coppel, Alfredo Jose de Arana-Marini
+    - Galaxan, Sol
+    birthdate: 1921
+    deathdate: 2004
+    gutenberg_agent_id: '25110'
+    url: http://www.gutenberg.org/2009/agents/25110
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Coppel
+description: ''
+gutenberg_issued: '2023-03-24'
+identifiers:
+  gutenberg: '70361'
+language: en
+pgterms:marc905: 20220529053312coppel
+pgterms:marc906: '1950'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bColumbia Publications, Inc., $c1950.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Space travelers -- Fiction'
+- !lcsh 'Cold War -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The terror
+url: http://www.gutenberg.org/ebooks/70361
