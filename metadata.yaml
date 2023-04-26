@@ -8,6 +8,9 @@ contributor:
     deathdate: 1999
     gutenberg_agent_id: '41543'
     url: http://www.gutenberg.org/2009/agents/41543
+covers:
+- cover_type: archival
+  image_path: 70361-h/images/cover.jpg
 creator:
   author:
     agent_name: Coppel, Alfred
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25110
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Coppel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70361#The-terror
 gutenberg_issued: '2023-03-24'
 identifiers:
   gutenberg: '70361'
